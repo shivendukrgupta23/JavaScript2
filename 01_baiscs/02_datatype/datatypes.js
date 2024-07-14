@@ -78,10 +78,10 @@
 // console.log(true+);//error
 
 
-let num1, num2, num3
-num1 = num2 = num3 = 2 + 2
+// let num1, num2, num3
+// num1 = num2 = num3 = 2 + 2
 
-let gameCounter = 100
-++gameCounter;
-console.log(gameCounter);
+// let gameCounter = 100
+// ++gameCounter;
+// console.log(gameCounter);
 
